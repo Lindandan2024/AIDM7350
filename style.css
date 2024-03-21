@@ -1,0 +1,54 @@
+p{
+    color:blueviolet;
+    font-size:20px;
+ }
+
+p:hover{
+background:green;
+ }
+
+
+ h1:hover{
+    color:rgb(64, 0, 255);
+    background-color: aquamarine;
+    font-size:30px;
+ }
+
+
+
+ .standout
+ {
+color: brown;
+ }
+
+ h2.standout
+ {
+ color:aquamarine;
+ }
+
+ .image1:hover
+ {border-radius:50%;
+
+}
+
+
+.image2:hover
+{border-radius: 30px;
+
+}
+
+.image3:hover
+{opacity: 0.8;
+
+}
+
+.image4:hover
+{filter:grayscale(70%)
+
+}
+.image5:hover
+{filter:blur(5px)
+
+}
+
+
